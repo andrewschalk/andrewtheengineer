@@ -4,11 +4,11 @@
   "description": "A personal card for Andrew Schalk",
   "main": "/bin/card.js",
   "bin": {
-    "andrewtheengineer"": "./bin/card.js"
+    "andrewtheengineer": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewschalk/andrewtheengineer".git"
+    "url": "git+https://github.com/andrewschalk/andrewtheengineer.git"
   },
   "scripts": {
     "prepublish": "npm run build",

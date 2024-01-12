@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewschalk/andrewtheengineer.git"
+    "url": "git+https://github.com/andrewschalk/npmcard.git"
   },
   "scripts": {
     "prepublish": "npm run build",

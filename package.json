@@ -2,7 +2,7 @@
   "name": "andrewtheengineer",
   "version": "1.0.0",
   "description": "A personal card for Andrew Schalk",
-  "main": "/bin/card.js",
+  "main": "./bin/card.js",
   "bin": {
     "andrewtheengineer": "./bin/card.js"
   },
